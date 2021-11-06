@@ -1,15 +1,15 @@
-18:53:08 **** Incremental Build of configuration Debug for project CONTROL_ECU ****
+19:46:08 **** Incremental Build of configuration Debug for project HMI_ECU ****
 make all 
 Invoking: Print Size
-avr-size --format=avr --mcu=atmega16 CONTROL_ECU.elf
+avr-size --format=avr --mcu=atmega16 HMI_ECU.elf
 AVR Memory Usage
 ----------------
 Device: atmega16
 
-Program:   10194 bytes (62.2% Full)
+Program:   14022 bytes (85.6% Full)
 (.text + .data + .bootloader)
 
-Data:        312 bytes (30.5% Full)
+Data:        402 bytes (39.3% Full)
 (.data + .bss + .noinit)
 
 
