@@ -9,6 +9,7 @@
 #include"pwm.h"
 #include"common_macros.h"
 
+
 void DcMotor_Init(void){
 	/*
 	 * The below 2-lines will setup the direction of the 2-pins of the motor */
